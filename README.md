@@ -1,2 +1,2 @@
 # NotificationManager
-可以补
+## NotificationManager用于处理XX等
